@@ -1,0 +1,51 @@
+[
+  {
+    "id": "A1",
+    "nome": "Python",
+    "descricao": "Linguagem versátil, ideal para IA, Data Science e desenvolvimento Web.",
+    "atributos": {
+      "curva_aprendizado": 85,
+      "popularidade": 95,
+      "performance": 60,
+      "comunidade": 98,
+      "backend": 85
+    }
+  },
+  {
+    "id": "B1",
+    "nome": "JavaScript",
+    "descricao": "O motor da Web, essencial para front-end e amplamente usado no back-end (Node.js).",
+    "atributos": {
+      "curva_aprendizado": 75,
+      "popularidade": 100,
+      "performance": 70,
+      "comunidade": 100,
+      "backend": 90
+    }
+  },
+  {
+    "id": "C1",
+    "nome": "Java",
+    "descricao": "Robusta, 'Write Once, Run Anywhere', dominante em sistemas empresariais de grande escala.",
+    "atributos": {
+      "curva_aprendizado": 50,
+      "popularidade": 80,
+      "performance": 80,
+      "comunidade": 90,
+      "backend": 95
+    }
+  },
+  {
+    "id": "D1",
+    "nome": "C++",
+    "descricao": "Linguagem de alto desempenho, usada em jogos, drivers e sistemas críticos.",
+    "atributos": {
+      "curva_aprendizado": 20,
+      "popularidade": 70,
+      "performance": 95,
+      "comunidade": 80,
+      "backend": 45
+    }
+  }
+  // ... continue adicionando as outras cartas (C#, Go, Rust, Swift, etc.)
+]
